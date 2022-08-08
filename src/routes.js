@@ -4,7 +4,7 @@ import {
     getNoteByIdHandler,
     editNoteByIdHandler,
     deleteNoteByIdHandler,
-} from './handler';
+} from './handler.js';
 
 const routes = [
     {
